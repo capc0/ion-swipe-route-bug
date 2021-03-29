@@ -1,0 +1,7 @@
+{
+  "name": "ion-swipe-route-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

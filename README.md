@@ -1,1 +1,0 @@
-# ion-swipe-route-bug
